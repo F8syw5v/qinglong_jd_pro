@@ -162,7 +162,6 @@ Recombin_CK_Mode="3" Recombin_CK_ARG1="5" Recombin_CK_ARG2="5"  假设有100个C
 依赖管理-新建依赖-自动拆分选是-粘贴对应的依赖-确定
 
 NodeJs下:
-
 crypto-js
 prettytable
 dotenv
@@ -185,16 +184,16 @@ typescript
 js-base64
 axios
 moment
-Python3下:
 
+Python3下:
 requests
 canvas
 ping3
 jieba
 PyExecJS
 aiohttp
-Linux下:
 
+Linux下:
 bizCode
 bizMsg
 lxm
