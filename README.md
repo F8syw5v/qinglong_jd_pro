@@ -197,3 +197,5 @@ Linux下:
 bizCode
 bizMsg
 lxm
+
+获取京东cookie。（有效期一个月，需重新获取）格式为：pt_key=XXX;pt_pin=XXX;（分号;不可省略）， pt_pin是用户名
