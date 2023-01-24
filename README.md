@@ -158,3 +158,43 @@ Recombin_CK_Mode="3" Recombin_CK_ARG1="5" Recombin_CK_ARG2="5"  假设有100个C
 
 
 
+常用依赖
+依赖管理-新建依赖-自动拆分选是-粘贴对应的依赖-确定
+
+NodeJs下:
+
+crypto-js
+prettytable
+dotenv
+jsdom
+date-fns
+tough-cookie
+tslib
+ws@7.4.3
+ts-md5
+jsdom -g
+jieba
+fs
+form-data
+json5
+global-agent
+png-js
+@types/node
+require
+typescript
+js-base64
+axios
+moment
+Python3下:
+
+requests
+canvas
+ping3
+jieba
+PyExecJS
+aiohttp
+Linux下:
+
+bizCode
+bizMsg
+lxm
